@@ -5,10 +5,7 @@ public class DiningPhilosophers {
 	
 	public static void main (String[] args) throws Exception{
 		
-		System.out.println("Members: Mamadou Kaly Diallo," 
-				+ "\n Srijana Khadka,"
-				+ "\n Sabina Akter," 
-				+ "\n Tanvir Bashar \n"
+		System.out.println(" Tanvir Bashar "
 				+ "\n --------------------------------"
 				);
 		
